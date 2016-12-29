@@ -10,3 +10,5 @@ README.md export-ignore
 *utf-8* git-encoding=UTF-8 working-tree-encoding=UTF-8
 *BINARY* git-encoding=BINARY working-tree-encoding=BINARY
 *binary* binary
+*unspecified_a* working-tree-encoding=ISO8859-1
+*unspecified_e* working-tree-encoding=IBM-1047
